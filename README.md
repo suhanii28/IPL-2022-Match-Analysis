@@ -29,19 +29,22 @@ This project analyzes the IPL 2022 season using Python to discover meaningful pa
 📘 README.md                    # Project Documentation
 ```
 
-## 📷 Sample Visualizations
+## 📷 Visualizations
 
-> Replace the filenames below with your actual image names.
+### 1. Matches Won by Each Team
+https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/matches_won.png
 
-| Team Performance                 | Toss Analysis                 |
-| -------------------------------- | ----------------------------- |
-| ![](images/team_performance.png) | ![](images/toss_analysis.png) |
+### 2. Toss Winner vs Match Winner
+https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/toss_match.png
 
-| Venue Analysis                 | Player Performance                 |
-| ------------------------------ | ---------------------------------- |
-| ![](images/venue_analysis.png) | ![](images/player_performance.png) |
+### 3. Matches Played at Different Venues
+https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/venues.png
 
----
+### 4. Top Players with Most Player of the Match Awards
+https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/player_of_match.png
+
+### 5. Win Percentage
+(https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/win_percentage.png)
 
 ## 💡 Key Insights
 * Identified the best-performing teams in IPL 2022.
