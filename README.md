@@ -32,7 +32,7 @@ This project analyzes the IPL 2022 season using Python to discover meaningful pa
 ## 📷 Visualizations
 
 ### 1. Matches Won by Each Team
-https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/matches_won.png
+![Matches Won](images/matches_won.png)
 
 ### 2. Toss Winner vs Match Winner
 https://github.com/suhanii28/IPL-2022-Match-Analysis/blob/main/images/toss_match.png
